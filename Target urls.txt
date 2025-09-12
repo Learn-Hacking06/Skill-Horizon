@@ -1,2 +1,0 @@
-https://www.trexcloud.com/js/common/selenium-mode.js?resourceHash=1295053990000
-https://www.trexcloud.com/js/saasure.min.js?resourceHash=1296595654000
